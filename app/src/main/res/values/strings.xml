@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="Password">Password</string>
+    <string name="PassEnt">Password Enter</string>
+    <string name="UserEnt">Enter Username</string>
+    <string name="UserName">User Name</string>
+    <string name="arabiclang">Arabic</string>
+    <string name="chineselang">Chinese</string>
+    <string name="englishlang">English</string>
+    <string name="spanishlang">Spanish</string>
+    <string name="PickDate">Pick Date</string>
+    <string name="PickTime">Pick Time</string>
+    <string-array name = "spinner">
+        <item> - Students </item>
+        <item> - Faculty </item>
+        <item> - Staff </item>
+    </string-array>
+</resources>
